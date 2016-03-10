@@ -21,3 +21,7 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
    - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/009/original/flinto-timer-links-tutorial.zip): The project file for this tutorial.
 - [Coverflow transition](https://www.flinto.com/tutorial_videos/10): Learn to build a 3D coverflow style transition in Flinto for Mac's transition designer.
    - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/010/original/flinto-coverflow-tutorial.zip): The project file for this tutorial.
+- [Scroll Groups](https://www.flinto.com/tutorial_videos/11): Add scrolling areas to your screens using scroll groups.
+   - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/011/original/flinto-scroll-groups-tutorial.zip): The project file for this tutorial.
+- [Parallax Scrolling Effect](https://www.flinto.com/tutorial_videos/12): Use Flinto for Mac to simulate a parallax scrolling effect.
+   - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/012/original/flinto-parallax-tutorial.zip): The project file for this tutorial.
