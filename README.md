@@ -7,3 +7,17 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
 ## Tutorials
 - [New Document and Screens](https://www.flinto.com/tutorial_videos/1): An overview of creating your first Flinto for Mac document, adding screens and laying out the screen with assets from Finder.
 - [Links and Gestures](https://www.flinto.com/tutorial_videos/2): Add interactivity to your prototype by creating links between screens. Flinto for Mac makes it easy!
+- [Layer Transitions](https://www.flinto.com/tutorial_videos/3): Easily create advanced transitions involving individual layers in Flinto for Mac.
+- [Screen Transitions](https://www.flinto.com/tutorial_videos/4): Create simple but impressive screen-based transitions in Flinto for Mac's Transition Designer.
+- [Overlaid Content](https://www.flinto.com/tutorial_videos/5): Learn to simulate pop-up alerts and other types of overlaid content in this tutorial.
+   - [Project file](flinto-overlay-tutorial): The project file for this tutorial.
+- [Connected Layers](ttps://www.flinto.com/tutorial_videos/6): Make transitions that appear to take place in one screen using the powerful connected layer feature in Flinto for Mac.
+   - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/006/original/flinto-connected-layers-tutorial.zip): - The project file for this tutorial.
+- [Reusable Transitions](https://www.flinto.com/tutorial_videos/7): Learn how Flinto for Mac's reusable transitions work. This is a huge time saver!
+   - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/007/original/flinto-reusable-transitions-tutorial.zip): The project file for this tutorial.
+- [Cell Swipe Transition](https://www.flinto.com/tutorial_videos/8): This example demonstrates how to build a cell swipe interaction in Flinto for Mac.
+   - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/008/original/flinto-cell-swipe-tutorial.zip): The project file for this tutorial.
+- [Timer Links](https://www.flinto.com/tutorial_videos/9): Learn to use timer links to automatically trigger a transition to another screen.
+   - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/009/original/flinto-timer-links-tutorial.zip): The project file for this tutorial.
+- [Coverflow transition](https://www.flinto.com/tutorial_videos/10): Learn to build a 3D coverflow style transition in Flinto for Mac's transition designer.
+   - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/010/original/flinto-coverflow-tutorial.zip): The project file for this tutorial.
