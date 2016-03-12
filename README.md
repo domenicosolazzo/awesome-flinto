@@ -25,3 +25,5 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
    - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/011/original/flinto-scroll-groups-tutorial.zip): The project file for this tutorial.
 - [Parallax Scrolling Effect](https://www.flinto.com/tutorial_videos/12): Use Flinto for Mac to simulate a parallax scrolling effect.
    - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/012/original/flinto-parallax-tutorial.zip): The project file for this tutorial.
+- [Tinder Style Transition](https://www.flinto.com/tutorial_videos/13): Follow along with this example to create the much-requested Tinder photo swipe transition.
+   - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/013/original/flinto-judgement-tutorial.zip): The project file for this tutorial.
