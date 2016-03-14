@@ -29,3 +29,5 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
    - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/013/original/flinto-judgement-tutorial.zip): The project file for this tutorial.
 - [Background Color Fade Transition](https://www.flinto.com/tutorial_videos/14): A quick overview of how I created this card swipe transition with a nice color background fade effect.
    - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/014/original/flinto-swipe-fade-tutorial.zip): The project file for this tutorial.
+- [Video Layers](https://www.flinto.com/tutorial_videos/15): Add video or animated GIF layers to your prototypes.
+- [Re-Import from Sketch](https://www.flinto.com/tutorial_videos/16): A quick tour of Flinto's support for re-importing designs from Sketch.
