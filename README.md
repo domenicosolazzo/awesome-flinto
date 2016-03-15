@@ -31,3 +31,6 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
    - [Project file](https://www.flinto.com/assets/tutorial_videos/project_files/000/000/014/original/flinto-swipe-fade-tutorial.zip): The project file for this tutorial.
 - [Video Layers](https://www.flinto.com/tutorial_videos/15): Add video or animated GIF layers to your prototypes.
 - [Re-Import from Sketch](https://www.flinto.com/tutorial_videos/16): A quick tour of Flinto's support for re-importing designs from Sketch.
+
+# Reviews
+- [Flinto vs Principle](http://savvyapps.com/blog/flinto-vs-principle-app-prototyping-review): A Review of Two New App Prototyping Tools
