@@ -34,3 +34,4 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
 
 # Reviews
 - [Flinto vs Principle](http://savvyapps.com/blog/flinto-vs-principle-app-prototyping-review): A Review of Two New App Prototyping Tools
+- [Flinto vs Principle for Mac (DN)](https://www.designernews.co/stories/54824-principle-vs-flinto-for-mac): Discussion about the difference between Flinto and Principle.
