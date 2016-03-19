@@ -32,6 +32,10 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
 - [Video Layers](https://www.flinto.com/tutorial_videos/15): Add video or animated GIF layers to your prototypes.
 - [Re-Import from Sketch](https://www.flinto.com/tutorial_videos/16): A quick tour of Flinto's support for re-importing designs from Sketch.
 
+# Articles
+- [Easily Build Code-Free iOS Prototypes With Flinto](https://medium.com/@kamkeshmiri/easily-build-code-free-ios-prototypes-with-flinto-a81502bb0121#.huqztf9zz): A hand’s on walkthrough for designers and entrepreneurs to quickly build prototypes that feel native on iPhone and iPad
+- [Quick iOS prototyping in Flinto](http://blog.mengto.com/quick-ios-prototyping-flinto/): Quick iOS prototyping in Flinto
+
 # Reviews
 - [Flinto vs Principle](http://savvyapps.com/blog/flinto-vs-principle-app-prototyping-review): A Review of Two New App Prototyping Tools
 - [Flinto vs Principle for Mac (DN)](https://www.designernews.co/stories/54824-principle-vs-flinto-for-mac): Discussion about the difference between Flinto and Principle.
