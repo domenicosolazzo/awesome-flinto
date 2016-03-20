@@ -35,6 +35,7 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
 # Articles
 - [Easily Build Code-Free iOS Prototypes With Flinto](https://medium.com/@kamkeshmiri/easily-build-code-free-ios-prototypes-with-flinto-a81502bb0121#.huqztf9zz): A hand’s on walkthrough for designers and entrepreneurs to quickly build prototypes that feel native on iPhone and iPad
 - [Quick iOS prototyping in Flinto](http://blog.mengto.com/quick-ios-prototyping-flinto/): Quick iOS prototyping in Flinto
+- [How Can You Use Flinto to Create Cool Interactive Prototypes?](https://yalantis.com/blog/how-can-you-use-flinto-to-create-cool-interactive-prototypes/)
 
 # Reviews
 - [Flinto vs Principle](http://savvyapps.com/blog/flinto-vs-principle-app-prototyping-review): A Review of Two New App Prototyping Tools
