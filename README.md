@@ -39,7 +39,7 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
 
 # Videos
 - [Prototype iOS Apps with Flinto](https://www.youtube.com/watch?v=NbdduKMdqeM)
-- [Build Carousel Like Home Screen](https://www.youtube.com/watch?v=_d-xZv0JrRE)
+- [App Prototypes with Sketch and Flinto](https://www.youtube.com/watch?v=BBfalM8vi_g)
 
 # Reviews
 - [Flinto vs Principle](http://savvyapps.com/blog/flinto-vs-principle-app-prototyping-review): A Review of Two New App Prototyping Tools
