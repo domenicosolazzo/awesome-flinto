@@ -47,3 +47,6 @@ Flinto for Mac is a comprehensive app prototyping tool that allows you to create
 - [Three more prototyping tools: Flinto, Principle, Tumult Hype](https://medium.com/sketch-app-sources/three-more-app-prototyping-tools-compared-principle-flinto-for-mac-tumult-hype-f73bc056bb42#.4hodo2bnk): Comparison between Flinto, Principle and Tumult Hype
 - [Flinto for Mac (DN)](https://www.designernews.co/stories/54734-flinto-for-mac): Designer News review of Flinto
 - [Flinto review by Grapefruit team](http://www.grapefruit.ro/ideas/flinto-for-mac-review-grapefruit/)
+
+# Classes
+- [Skillshare classes](https://www.skillshare.com/classes/flinto)
